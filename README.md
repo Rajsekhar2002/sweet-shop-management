@@ -185,19 +185,6 @@ Co-authored-by: GitHub Copilot <copilot@github.com>"
 
 This project is licensed under the ISC License.
 
-## Screenshots
-
-### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Sweets Page
-![Sweets Page Screenshot](screenshots/sweets.png)
-
-### Login Page
-![Login Page Screenshot](screenshots/login.png)
-
-(Add actual screenshots in the `screenshots/` folder)
-
 ## Contact
 
 For questions or support, please open an issue on GitHub.
