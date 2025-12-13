@@ -70,7 +70,7 @@ A full-stack web application for managing a sweet shop, built with Node.js, Expr
    ```bash
    npm start
    ```
-   The frontend will run on `http://localhost:3001` (to avoid port conflicts with the backend).
+   The frontend will run on `http://localhost:3001` 
 
 ## Usage
 
