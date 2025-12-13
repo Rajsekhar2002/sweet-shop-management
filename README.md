@@ -191,4 +191,4 @@ For questions or support, please open an issue on GitHub.
 
 ## Screenshots
 
-![image alt](Screenshots)
+![image alt](https://github.com/Rajsekhar2002/sweet-shop-management/blob/master/login.png?raw=true)
