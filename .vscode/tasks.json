@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "run backend",
+			"type": "shell",
+			"command": "cd backend; npm start",
+			"group": "run"
+		},
+		{
+			"label": "build backend",
+			"type": "shell",
+			"command": "cd backend; npm run build",
+			"group": "build"
+		}
+	]
+}
