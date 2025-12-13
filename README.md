@@ -192,3 +192,9 @@ For questions or support, please open an issue on GitHub.
 ## Screenshots
 
 ![image alt](https://github.com/Rajsekhar2002/sweet-shop-management/blob/master/login.png?raw=true)
+![image alt](https://github.com/Rajsekhar2002/sweet-shop-management/blob/master/register.png?raw=true)
+![image alt](https://github.com/Rajsekhar2002/sweet-shop-management/blob/master/sweetdashboard.png?raw=true)
+![image alt](https://github.com/Rajsekhar2002/sweet-shop-management/blob/master/sweet1.png?raw=true)
+![image alt](https://github.com/Rajsekhar2002/sweet-shop-management/blob/master/sweet1.png?raw=true)
+
+
