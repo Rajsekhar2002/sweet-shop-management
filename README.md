@@ -121,36 +121,7 @@ sweet-shop-management/
 └── README.md
 ```
 
-## Testing
 
-### Backend Tests
-```bash
-cd backend
-npm test
-```
-
-### Frontend Tests
-```bash
-cd frontend
-npm test
-```
-
-### Test Report
-Run the backend tests to ensure all functionality works correctly. Example output:
-
-```
-PASS tests/auth.test.ts
-  ✓ should register a new user (50ms)
-  ✓ should login a user (30ms)
-PASS tests/sweet.test.ts
-  ✓ should get all sweets (40ms)
-  ✓ should add a new sweet (35ms)
-
-Test Suites: 2 passed, 2 total
-Tests: 4 passed, 4 total
-Snapshots: 0 total
-Time: 2.5s
-```
 
 ## My AI Usage
 
@@ -161,33 +132,7 @@ I used GitHub Copilot as the primary AI tool throughout the development of this 
 - **Code Quality**: Copilot suggested improvements for code readability, such as adding proper error handling, using async/await patterns, and structuring the project with clear separation of concerns.
 - **Reflection**: AI tools like Copilot significantly improved development speed by providing quick code snippets and reducing boilerplate writing. However, all AI-generated code was reviewed and modified to ensure it fit the project requirements, security standards, and best practices. This required manual verification for correctness, especially in areas like authentication logic and database interactions. Overall, AI enhanced productivity but emphasized the importance of human oversight for quality and security.
 
-## Contributing
 
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
-
-### Co-author Commits
-If AI tools are used in commits, attribute them as co-authors. At the end of your commit message, add two empty lines, followed by the co-author trailer.
-
-Example:
-```
-git commit -m "feat: Implement user registration endpoint
-
-Used an AI assistant to generate the initial boilerplate for the controller and service, then manually added validation logic.
-
-Co-authored-by: GitHub Copilot <copilot@github.com>"
-```
-
-## License
-
-This project is licensed under the ISC License.
-
-## Contact
-
-For questions or support, please open an issue on GitHub.
 
 ## Screenshots
 
